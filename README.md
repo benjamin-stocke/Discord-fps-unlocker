@@ -1,2 +1,2 @@
 # Discord-fps-unlocker
-A simple open source fps unlocker for discord.
+A simple open source FPS unlocker for Discord on Windows 11.
